@@ -1,2 +1,7 @@
 mani
+<<<<<<< HEAD
 pavan
+=======
+pavan
+surya
+>>>>>>> a3396d2b6691c357b5366f34ab245fd093fb27b4
